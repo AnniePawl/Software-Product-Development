@@ -16,19 +16,34 @@ Very important. Dont perceive Q.A as a secondary goal!
 
 ## External Characteristics 
 - **Adaptability** </br> 
+Extent to which system can be used, without modification, in other applications or environements
 - **Robustness** </br> 
+Degree to which system continues to function in presence of invalid inputs or stressful environmental conditions
 - **Correctness** </br> 
+Degree to which system is free from faults in specification, design, and implementation
 - **Accuracy** </br> 
+Determination of how well a system does it's job, rather than if it was built correctly. Degree to which system is built free from errors
 - **Usability** </br> 
+Ease with which users can learn to use the system
 - **Efficiency** </br> 
+Minimal use of system resources, including memory and execution time
 - **Reliablilty** </br> 
-- **Integrity** </br> 
+Ability of system to perform required functions under stated conditions
+- **Integrity** </br>
+Degree to which system prevents unauthorized or improper access to programs and data 
 
 ## Internal Characteristics
 - **Portability**</br> 
+Ease with which you can modify a system to operate in different environment than specifically designed for
 - **Readability** </br> 
+Ease with which you can read and understand source code
 - **Maintainability** </br> 
+Ease with which you can change, add or improve capabilties
 - **Testability** </br> 
+Degree to which you can unit-test and system-test to verify that product meets requirements
 - **Flexibility** </br> 
+Extent to which system can be used outside original purpose
 - **Reusability** </br> 
+Extent to which you can use parts of system in other systems
 - **Understandability** </br> 
+Coherance of the system. Ease with which you can comprehend system 
