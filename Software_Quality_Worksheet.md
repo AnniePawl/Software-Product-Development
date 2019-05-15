@@ -27,4 +27,9 @@ External Audit: Bring an individual/ group in to determine the status of a produ
 - Keep Functions Short
 - Divide system into sub systems 
 
+6. **What percentage of the time should be spent writing tests for a typical project ?**
+Between 8-25 % of total project time 
+
+7. 
+
 
